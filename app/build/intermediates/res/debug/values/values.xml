@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/take/AndroidStudioProjects/TechDragon1/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black">#000</color>
+    <color name="white">#FFF</color>
+    <!-- From: file:/Users/take/AndroidStudioProjects/TechDragon1/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/take/AndroidStudioProjects/TechDragon1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">TechDragon</string>
+    <string name="explain">
+       きあいだめまたは攻撃を行うとランダムのダメージで敵から攻撃されます。\n
+       きあいだめをおすと攻撃力が増加します。\n
+       会心の一撃をおすと、相手に猛烈なダメージを与えることができます。\n
+       ただしまれに、自分にも猛烈なダメージを与えることがあるので気をつけてください。\n
+
+    </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_explain_actiity">ExplainActiity</string>
+    <!-- From: file:/Users/take/AndroidStudioProjects/TechDragon1/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

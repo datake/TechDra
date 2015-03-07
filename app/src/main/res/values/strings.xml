@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TechDragon</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_explain_actiity">ExplainActiity</string>
+    <string name="explain">
+       きあいだめまたは攻撃を行うとランダムのダメージで敵から攻撃されます。\n
+       きあいだめをおすと攻撃力が増加します。\n
+       会心の一撃をおすと、相手に猛烈なダメージを与えることができます。\n
+       ただしまれに、自分にも猛烈なダメージを与えることがあるので気をつけてください。\n
+
+    </string>
+
+</resources>
